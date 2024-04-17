@@ -10,8 +10,6 @@
   Multiple Ailment AI Based Prognosis with Personalized Telecare Assistance Platform
 </h3>
 
-## 🧑‍💻 Demo Video Explanation - https://drive.google.com/file/d/18vXai6mQZf8d4cV_g23YnhlOnyKGb0Ul/view?usp=sharing
-
 ## 💻 Project Description :
 
 Remisense is a web application developed using Flask, a web framework in Python that aims to assist patients in obtaining the necessary medical care for their needs. The system allows users to register as patients or doctors, book appointments, and predict diseases based on symptoms. Doctors can view and manage appointments, while patients can track their appointments and update their profiles. Additionally, the system provides information on various health-related topics through blog posts and also analyses mental health conditiion of patients.
@@ -22,10 +20,10 @@ Remisense is a web application developed using Flask, a web framework in Python 
 
 > Welcome to the `Remisense` 👨🏻‍⚕️💉 Webapp! Remisense is the first AI powered Disease Prognosis application which harnesses the power of Image Processing and Machine Learning to offer cost-effective and accessible Telemedicine and Personalized Healthcare support.
 
-## 🧑‍💻 Author : **Soumalya Bhattacharyya** | **Sayan pan** | **Soumyadeep Banerjee** 
+## 🧑‍💻 Author : **Soumalya Bhattacharyya** | **Soumyadeep Banerjee** 
 
 ## 🛠️ Problem Statement :
-Develop innovative medical technologies and healthcare applications that improve patient outcomes and provide better access to healthcare.
+Empowering Rural Healthcare Access: Innovative Solutions for Remote Communities.
 
 ## 📝 Proposed Solution :
 • Enhanced Patient Care: The centralized health card will streamline the transfer of patient information, reducing the risk of medical errors and enabling healthcare providers to make informed decisions promptly.
